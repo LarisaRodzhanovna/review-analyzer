@@ -1,0 +1,16 @@
+# секреты
+.env
+*.pem
+*key*.json
+
+# сборка
+*.exe
+*.test
+*.out
+/bin/
+
+# окружение
+.vs/
+.idea/
+.vscode/
+.DS_Store
